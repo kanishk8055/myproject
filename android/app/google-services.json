@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552235854249",
+    "project_id": "emiestimtor",
+    "storage_bucket": "emiestimtor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552235854249:android:e923d9a487726d26fdbcb8",
+        "android_client_info": {
+          "package_name": "com.emiestimator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552235854249-nlta32q3kk7sscoo94eeltt6spiq9gat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMG_M2vzRpLrBsOjWOmYAHV2H79EWx5fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552235854249-nlta32q3kk7sscoo94eeltt6spiq9gat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
